@@ -15,7 +15,7 @@
   ],
   "author": "Alexander Davis",
   "license": "ISC",
-  "description": "This project aims to automatically answer live questions with artificial intelligence.",
+  "description": "(Let me ask) It is an ideal application for live broadcasts and streaming, where you can create question rooms to answer live using artificial intelligence.",
   "devDependencies": {
     "@biomejs/biome": "2.0.6",
     "@types/node": "^24.0.10",
