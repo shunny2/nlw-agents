@@ -8,6 +8,13 @@
       "when": 1751999992124,
       "tag": "0000_tiny_prodigy",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752152500382,
+      "tag": "0001_crazy_swarm",
+      "breakpoints": true
     }
   ]
 }
