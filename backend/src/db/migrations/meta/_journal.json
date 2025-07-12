@@ -15,6 +15,13 @@
       "when": 1752152500382,
       "tag": "0001_crazy_swarm",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752258368952,
+      "tag": "0002_ambiguous_randall",
+      "breakpoints": true
     }
   ]
 }
